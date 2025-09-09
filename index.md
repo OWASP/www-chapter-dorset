@@ -13,7 +13,7 @@ postal-code:
 
 ---
 Welcome to the Dorset Chapter.  
-Our chapter leaders are [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org), [Nigel Kay](mailto:nigel.kay@owasp.org) and [Oliver Ide](mailto:oliver.ide@owasp.org).  
+Our chapter leaders are [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org), [Arron Johnson](mailto:arron.johnson@owasp.org), [Daryl Angel](mailto:daryl.angel@owasp.org), and [Nigel Kay](mailto:nigel.kay@owasp.org).  
 
 
 We are a welcoming and inclusive chapter no matter your background, our community is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event!
