@@ -3,7 +3,6 @@
 * [Alexios Mylonas](mailto:alexios.mylonas@owasp.org)
 * [Mike Warner](mailto:michael.warner@owasp.org)
 * [Arron Johnson](mailto:arron.johnson@owasp.org)
-* [Daryl Angel](mailto:daryl.angel@owasp.org)
 * [Nigel Kay](mailto:nigel.kay@owasp.org)
 
 ### Twitter Feed
