@@ -1,0 +1,41 @@
+community:
+  - name: chapter-dorset
+    platform: slack
+    url: https://owasp.slack.com/archives/CJZGXT1M2
+    description: Local chapter channel for OWASP Dorset Chapter. Come say hi!
+currency: GBP
+leaders:
+  - name: Alexios Mylonas
+    email: alexios.mylonas@owasp.org
+  - name: Mike Warner
+    email: michael.warner@owasp.org
+    github: minimike86
+  - name: Arron Johnson
+    email: arron.johnson@owasp.org
+  - name: Daryl Angel
+    email: daryl.angel@owasp.org
+  - name: Nigel Kay
+    email: nigel.kay@owasp.org
+    github: NigelKay
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Dorset
+  latitude: 50.79683685
+  longitude: -2.34473226124306
+meetup_group: OWASP-Dorset-Chapter
+name: OWASP Dorset
+repositories:
+  - name: www-chapter-dorset
+    url: https://github.com/OWASP/www-chapter-dorset
+    description: OWASP Foundation Web Repository
+tags:
+  - dorset
+  - chapter
+  - events
+  - meetup
+  - ctf
+  - security
+  - inclusive
+website: https://owasp.org/www-chapter-dorset
